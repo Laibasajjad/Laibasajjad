@@ -121,6 +121,3 @@ I'm a passionate developer with diverse interests spanning Machine Learning, Art
   <img src="https://komarev.com/ghpvc/?username=Laibasajjad&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
-## Acknowledgments
-
-Profile README originally based on the GitHub Revamp template by Gul e Zara and customized by me.
